@@ -1,0 +1,25 @@
+{
+  "generator-angm": {
+    "appName": "my-material-project",
+    "angularCookies": true,
+    "angularAnimate": true,
+    "angularSanitize": true,
+    "angularMaterial": true,
+    "modules": [
+      {
+        "name": "visuals"
+      }
+    ],
+    "menu": [
+      {
+        "link": "visuals",
+        "title": "Visuals"
+      }
+    ],
+    "directives": [
+      {
+        "name": "d3-dashboard"
+      }
+    ]
+  }
+}
